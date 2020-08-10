@@ -1,0 +1,198 @@
+Name                  ;Cns ; RA          ; De         ;Wv   ;Typ   ;   Diam;   Dist;    pmRA;    pmDe;    RV  ; References          ;Comments
+Theia 125             ;Aql ;295.05423150 ; +0.3258102 ;Op   ;Str   ;  860.3;    594;    0.55;   -2.55;   -3.64; 2019AJ....158..122K ;contains Alessi 44, UPK 47, UPK 49
+MAF 4                 ;Aqr ;356.28291700 ;-16.8644440 ;Op   ;Str   ;  900.0;    102;        ;        ;        ; arXiv:1901.06387v1  ;check - missing PMs
+Ara OB1A A            ;Ara ;249.77622050 ;-49.0378940 ;Op   ;OC    ;  130.2;   1136;    0.82;   -3.94;        ; Alessi (Gaia DR2)   ;poss matches: NGC 6193, FoF 2313
+Theia 54              ;Aur ; 75.67692560 ;+30.1930249 ;Op   ;Asc   ;  416.5;    160;    4.43;  -25.09;   10.72; 2019AJ....158..122K ;includes HMAC 1, HMAC 3
+FoF 581               ;Aur ; 80.06126930 ;+39.3778547 ;Op   ;OC:   ;   39.1;   3333;    0.53;   -1.39;        ; arXiv:1910.12600v1  ;includes NGC 1857, Czernik 20
+Theia 390             ;Aur ; 93.39143080 ;+41.5318553 ;Op   ;Str   ; 1752.1;    560;   -2.09;   -3.06;   -6.93; 2019AJ....158..122K ;many condensations
+Theia 97              ;CMa ;100.51566080 ;-22.4659197 ;Op   ;Str   ; 2006.7;    393;   -5.37;    5.53;   26.09; 2019AJ....158..122K ;many condensations
+Escorial 12           ;CMa ;105.67035880 ;-25.8283061 ;Op   ;OC    ;  285.3;    693;   -3.65;    3.60;        ; Alessi (Gaia DR2)   ;poss matches: 24 CMa, ASCC 32, UPK 477, Collinder 121
+Theia 86              ;CMa ;105.86305600 ;-25.2208777 ;Op   ;Str   ;  697.3;    742;   -3.15;    4.57;   39.94; 2019AJ....158..122K ;many condensations
+FoF 2082              ;CMa ;106.05606760 ;-11.4977457 ;Op   ;OC:   ;   67.0;   1134;   -4.31;    1.54;        ; arXiv:1910.12600v1  ;?FSR 1186, includes vdBergh 92
+Collinder 121 Assoc   ;CMa ;106.54806440 ;-25.8983490 ;Op   ;OC    ;  571.2;    604;   -3.91;    4.07;        ; Alessi (Gaia DR2)   ;poss matches: Escorial 12, Escorial 10, Escorial 15, Theia 283, ASCC 32, UPK 477
+Escorial 15           ;CMa ;108.72735740 ;-27.0681636 ;Op   ;OC    ;  161.0;    553;   -4.34;    4.01;        ; Alessi (Gaia DR2)   ;poss matches: 27 CMa, UPK 479, NGC 2354, UPK 477, Collinder 121
+Escorial 18           ;CMa ;109.59043060 ;-24.4139037 ;Op   ;OC    ;  150.2;    971;   -3.74;    3.34;        ; Alessi (Gaia DR2)   ;poss matches: UPK 477, Theia 283
+Theia 509             ;CMa ;111.43267350 ;-19.3213182 ;Op   ;Str   ; 3748.1;    137;   -6.75;   -6.09;   21.97; 2019AJ....158..122K ;larger than 1 radian
+Theia 118             ;CMa ;111.46265730 ;-24.3838763 ;Op   ;Str   ; 4111.2;    283;  -13.34;    8.69;   31.91; 2019AJ....158..122K ;larger than 1 radian
+Cam OB1               ;Cam ; 50.85111460 ;+58.5959258 ;Op   ;OC    ;  932.2;   1056;   -0.73;   -1.03;        ; Alessi (Gaia DR2)   ;poss matches: Theia 574, Theia 652, UPK 288
+Cam OB3               ;Cam ; 60.52079800 ;+56.4845192 ;Op   ;OC    ;  140.4;   6173;    0.05;    0.24;        ; Alessi (Gaia DR2)   ;poss matches: FoF 2032, UBC 608
+Theia 150             ;Car ;125.24642770 ;-55.2908108 ;Op   ;Str   ; 1915.6;    651;   -6.49;    7.65;   18.91; 2019AJ....158..122K ;many condensations
+Theia 245             ;Car ;143.01018290 ;-71.6000991 ;Op   ;Str   ; 1608.8;    433;  -10.15;    8.35;   13.62; 2019AJ....158..122K ;check
+Theia 599             ;Car ;144.00202090 ;-58.9144804 ;Op   ;Str   ; 2481.3;    235;  -26.08;   22.01;   15.36; 2019AJ....158..122K ;check
+Theia 115             ;Car ;146.86526470 ;-59.3835846 ;Op   ;Str   ; 3549.5;    174;  -24.61;   13.09;   12.46; 2019AJ....158..122K ;larger than 1 radian
+Theia 92              ;Car ;147.47142480 ;-59.7544425 ;Op   ;Str   ; 2759.3;    148;  -15.80;   11.18;   18.63; 2019AJ....158..122K ;many condensations
+Theia 331             ;Car ;149.59941710 ;-57.8239451 ;Op   ;Str   ; 1443.2;    655;  -12.08;    3.88;    5.68; 2019AJ....158..122K ;many condensations
+Car OB1B              ;Car ;159.37620460 ;-57.9478389 ;Op   ;OC    ;  184.3;   2865;   -7.22;    3.14;        ; Alessi (Gaia DR2)   ;poss matches: FoF 2092, UBC 258, FoF 1002, Loden 143, UBC 653, Loden 112, FoF 403
+Car OB1C              ;Car ;159.48710860 ;-58.5575924 ;Op   ;OC    ;   56.9;   2959;   -6.83;    2.80;        ; Alessi (Gaia DR2)   ;poss matches: NGC 3324, UBC 653, FoF 1487
+Car OB1E              ;Car ;161.39976800 ;-59.8004359 ;Op   ;OC    ;  133.6;   2924;   -6.63;    2.31;        ; Alessi (Gaia DR2)   ;check - many poss IDs
+Car OB1-2             ;Car ;164.48674060 ;-60.1212409 ;Op   ;OC    ;   57.6;   3584;   -6.16;    2.10;        ; Alessi (Gaia DR2)   ;poss matches: FoF 1036, ASCC 63, FoF 129, FoF 1052, Pismis 17
+FoF 129               ;Car ;164.53836890 ;-61.6191600 ;Op   ;OC?   ;  123.4;   4000;    8.83;   -5.90;    2.23; arXiv:1910.12600v1  ;many condensations
+Feinstein 1           ;Car ;166.68000000 ;-59.8200000 ;Op   ;OB    ;   12.0;   1414;   -6.80;    1.32;  -13.40; 2013A&A...558A..53K ;includes FoF 1494, UBC 658
+Car OB2               ;Car ;167.18406340 ;-60.3999719 ;Op   ;OC    ;  236.1;   2732;   -6.37;    1.54;        ; Alessi (Gaia DR2)   ;check - many poss IDs
+Collinder 240         ;Car ;167.91666670 ;-60.3097222 ;Op   ;OB?   ;   32.0;   1577;        ;        ;        ; Alessi              ;contains Hogg 10, NGC 3572, Hogg 11
+Cas OB4               ;Cas ;  6.20375910 ;+62.3944921 ;Op   ;OC    ;  297.1;   2778;   -2.77;   -0.83;        ; Alessi (Gaia DR2)   ;poss matches: FoF 1314, FoF 529, UBC 407, FoF 895, UBC 409, UBC 410, FoF 1826
+LP 542                ;Cas ;  8.15432170 ;+63.1681803 ;Op   ;OC?   ;  124.9;   3367;   -2.56;   -0.54;        ; arXiv:1910.12600v1  ;includes several Cls
+Cas OB7               ;Cas ; 13.07842480 ;+64.0321665 ;Op   ;OC    ;  250.0;   2976;   -2.23;   -0.48;        ; Alessi (Gaia DR2)   ;poss matches: FoF 2007, FoF 1864, FoF 1889, FoF 1888, FoF 1328, UBC 412
+Cas OB1               ;Cas ; 16.61940930 ;+61.0982173 ;Op   ;OC    ;  225.5;   2545;   -1.58;   -0.71;        ; Alessi (Gaia DR2)   ;poss matches: FoF 1340, FoF 1888, FoF 1328
+Cas OB8               ;Cas ; 25.87373320 ;+61.2141747 ;Op   ;OC    ;  182.2;   3030;   -1.14;   -0.32;        ; Alessi (Gaia DR2)   ;check - many poss IDs
+Per OB1B              ;Cas ; 33.56212300 ;+59.6614797 ;Op   ;OC    ;   70.2;   2762;   -0.95;   -0.67;        ; Alessi (Gaia DR2)   ;poss matches: UBC 418, FoF 1338, UBC 419
+Theia 51              ;Cas ; 39.28912390 ;+72.4097950 ;Op   ;Asc   ;  328.8;    907;   -1.31;   -1.69;  -15.43; 2019AJ....158..122K ;LDN 1340, includes Majaess 29, FoF 2361, UBC 415
+Cas OB6               ;Cas ; 39.65470520 ;+61.1468867 ;Op   ;OC    ;  482.1;   2288;   -0.42;   -0.39;        ; Alessi (Gaia DR2)   ;poss matches: FoF 1338, FoF 2136, FoF 1937, UBC 192, UBC 418, UBC 421, UBC 419
+FoF 565               ;Cas ; 44.82061900 ;+60.5617203 ;Op   ;OC:   ;   48.1;   2247;   -0.18;    0.08;        ; arXiv:1910.12600v1  ;includes SAI 24, Collinder 34
+Theia 127             ;Cas ; 47.82065770 ;+62.7807044 ;Op   ;Str   ;  659.7;    669;   -3.58;   -0.25;  -18.72; 2019AJ....158..122K ;includes Trumpler 3, Stock 23
+Cep OB5               ;Cas ;345.53530470 ;+57.0880399 ;Op   ;OC    ;   57.4;   3077;   -2.71;   -2.13;        ; Alessi (Gaia DR2)   ;poss matches: UBC 395, UBC 393, UBC 176
+FoF 169               ;Cas ;345.55798250 ;+56.9943440 ;Op   ;OB    ;   39.5;   3876;   -3.12;   -2.37;        ; arXiv:1910.12600v1  ;Cep OB5, includes UBC 393, UBC 176
+Cas OB2               ;Cas ;350.69066830 ;+60.9772703 ;Op   ;OC    ;  384.6;   2762;   -3.51;   -1.77;        ; Alessi (Gaia DR2)   ;poss matches: FoF 525, FoF 355, FoF 2005
+Theia 577             ;Cas ;351.02020510 ;+61.2447041 ;Op   ;MG    ;  453.1;    773;   -5.66;   -1.59;        ; 2019AJ....158..122K ;?includes UPK 213, UPK 216
+FoF 527               ;Cas ;356.87628460 ;+62.0962043 ;Op   ;OC:   ;   77.3;   3215;   -3.41;   -1.36;        ; arXiv:1910.12600v1  ;includes several Cls
+Cas OB5               ;Cas ;358.29104850 ;+61.6346439 ;Op   ;OC    ;  496.6;   2950;   -3.07;   -1.60;        ; Alessi (Gaia DR2)   ;poss matches: FoF 888, FoF 529, FoF 355, FoF 2005
+Theia 215             ;Cen ;169.22387650 ;-56.3472033 ;Op   ;Str   ; 2326.6;    225;  -27.16;    3.43;    9.92; 2019AJ....158..122K ;check
+Cru OB1A              ;Cen ;172.70146550 ;-63.5074713 ;Op   ;OC    ;  105.8;   2801;   -6.52;    0.57;        ; Alessi (Gaia DR2)   ;poss matches: BH 121, Ruprecht 94
+Cru OB1B              ;Cen ;174.60574880 ;-63.3426491 ;Op   ;OC    ;   50.5;   2809;   -5.96;    0.51;        ; Alessi (Gaia DR2)   ;poss matches: FoF 838, BH 121
+Cru OB1D              ;Cen ;176.87491470 ;-62.3877663 ;Op   ;OC    ;   60.7;   2545;   -6.52;    0.96;        ; Alessi (Gaia DR2)   ;poss matches: Stock 14, UBC 280
+Theia 323             ;Cen ;195.07626850 ;-57.0515671 ;Op   ;MG    ;  960.5;    511;  -13.27;   -3.45;   -1.97; 2019AJ....158..122K ;proeminent condensations
+Sco OB2B              ;Cen ;209.10587640 ;-42.4490916 ;Op   ;OC    ;  286.8;    115;  -25.18;  -18.40;        ; Alessi (Gaia DR2)   ;poss matches: UPK 592, OPD 13
+Theia 447             ;Cen ;212.62653300 ;-60.4211773 ;Op   ;Str   ; 3455.9;    412;   -7.74;   -5.47;   -7.03; 2019AJ....158..122K ;larger than 1 radian
+Theia 5               ;Cep ;318.14303560 ;+68.8655719 ;Op   ;Asc   ;  375.4;    375;    7.22;   -0.92;  -19.07; 2019AJ....158..122K ;UPK 184 plus 1 cond
+Theia 904             ;Cep ;325.20887870 ;+58.0868350 ;Op   ;Str   ; 2675.0;    887;   -0.67;   -1.20;  -15.35; 2019AJ....158..122K ;check
+Theia 91              ;Cep ;326.10886900 ;+60.6516198 ;Op   ;Str   ; 1181.3;    890;   -2.61;   -3.04;    1.38; 2019AJ....158..122K ;7+ condensations
+Cep OB2B              ;Cep ;328.41594350 ;+62.0003210 ;Op   ;OC    ;  301.7;    946;   -2.88;   -1.91;        ; Alessi (Gaia DR2)   ;poss matches: Alessi-Teutsch 5, UBC 10B, UBC 10A, UPK 169
+Theia 9               ;Cep ;329.56792030 ;+60.0957478 ;Op   ;Str   ;  617.3;    897;   -1.84;   -3.55;   -3.06; 2019AJ....158..122K ;4 condensations
+Theia 157             ;Cep ;335.04681300 ;+59.6183387 ;Op   ;Str   ; 1246.8;    890;   -4.14;   -3.86;  -33.42; 2019AJ....158..122K ;5-6 condensations
+Delta Cep Cl          ;Cep ;335.62500000 ;+56.5666670 ;Op   ;OB    ;  260.0;    272;        ;        ;        ; Alessi              ;Cep OB6
+Theia 287             ;Cep ;341.14081670 ;+57.3439688 ;Op   ;Asc   ;  600.9;    832;   -0.35;    0.39;   -3.20; 2019AJ....158..122K ;includes UPK 192, UPK 180
+Theia 32              ;Cep ;342.21768170 ;+67.6862714 ;Op   ;Asc   ;  565.3;    376;    6.80;   -0.73;  -15.77; 2019AJ....158..122K ;2 condensations
+Cep OB3               ;Cep ;344.56634670 ;+62.9250104 ;Op   ;OC    ;  290.2;    890;   -1.44;   -2.12;        ; Alessi (Gaia DR2)   ;poss matches: Theia 4, FoF 2249, Theia 50, Theia 27, UBC 178
+MAF 2                 ;Cet ; 34.61875000 ; -4.2325000 ;Op   ;Str   ;  840.0;    118;        ;        ;        ; arXiv:1901.06387v1  ;check - missing PMs
+Theia 2               ;Cha ;167.55293690 ;-76.6881462 ;Op   ;Asc   ;  419.3;    206;  -20.45;    0.50;    9.93; 2019AJ....158..122K ;includes Cha I South, Cha I North
+Theia 353             ;Cir ;221.08002180 ;-55.9139305 ;Op   ;Str   ; 2332.4;    773;   -5.75;   -4.51;  -17.27; 2019AJ....158..122K ;many condensations
+Theia 452             ;Cir ;223.95574610 ;-66.2635214 ;Op   ;Str   ; 3448.7;    461;   -5.44;   -4.65;    3.54; 2019AJ....158..122K ;many condensations
+Theia 89              ;Cir ;229.93547610 ;-60.7235113 ;Op   ;Asc   ;  278.9;    828;   -2.88;   -4.03;    1.23; 2019AJ....158..122K ;includes ASCC 79, UPK 610
+Columba Assoc         ;Col ; 81.76000000 ;-35.1088890 ;Op   ;YAs   ; 2400.0;     82;        ;        ;        ; Alessi              ;check - missing PMs
+Extended R CrA Assoc  ;CrA ;273.00000000 ;-39.0000000 ;Op   ;YAs   ; 1920.0;    100;        ;        ;        ; Alessi              ;many poss matches
+Cru OB1E              ;Cru ;180.16598490 ;-63.0865258 ;Op   ;OC    ;   57.9;   2833;   -5.74;    0.58;        ; Alessi (Gaia DR2)   ;poss matches: UBC 515, FoF 1591, NGC 4052
+LCC-1                 ;Cru ;185.76250000 ;-64.1255560 ;Op   ;OB    ;  270.0;    107;        ;        ;        ; Alessi              ;in OPD 3
+Theia 857             ;Cru ;188.61702620 ;-59.9228917 ;Op   ;Str   ; 1981.6;    688;  -12.31;   -1.89;    0.17; 2019AJ....158..122K ;3 condensations
+Theia 954             ;Cru ;193.54393780 ;-62.3487839 ;Op   ;MG    ; 1708.5;    591;  -18.76;   -3.68;   -7.11; 2019AJ....158..122K ;check
+FoF 327               ;Cyg ;300.10867340 ;+30.3700563 ;Op   ;Asc?  ;  232.7;   3984;   -2.71;   -5.13;        ; arXiv:1910.12600v1  ;includes several Cls
+Cyg OB3A              ;Cyg ;301.76021950 ;+35.6506604 ;Op   ;OC    ;  101.8;   1972;   -3.10;   -6.38;        ; Alessi (Gaia DR2)   ;poss matches: FSR 198, Biurakan 1, NGC 6871, Biurakan 2
+Cyg OB3B              ;Cyg ;301.94281470 ;+36.5020571 ;Op   ;OC    ;   58.9;   2237;   -2.58;   -5.39;        ; Alessi (Gaia DR2)   ;poss matches: NGC 6871, UBC 367, UBC 368
+Theia 490             ;Cyg ;303.02129630 ;+49.0690866 ;Op   ;Str   ;  983.7;    784;   -1.50;  -10.37;  -13.03; 2019AJ....158..122K ;3 condensations
+Cyg OB1               ;Cyg ;304.74712660 ;+37.8883811 ;Op   ;OC    ;  277.4;   1779;   -3.04;   -5.47;        ; Alessi (Gaia DR2)   ;Fposs matches: oF 2179, FoF 2178, UBC 375, UBC 371, UBC 368
+Theia 197             ;Cyg ;305.74038740 ;+30.2599725 ;Op   ;Asc   ;  728.4;    802;    3.21;    1.33;  -19.16; 2019AJ....158..122K ;3 condensations
+Cyg OB9               ;Cyg ;305.90784990 ;+39.9044685 ;Op   ;OC    ;  187.6;   1590;   -2.77;   -5.09;        ; Alessi (Gaia DR2)   ;poss matches: FoF 2179, UBC 375, FoF 2182, FoF 503
+Theia 96              ;Cyg ;307.43994690 ;+49.2633504 ;Op   ;Str   ; 3311.8;    315;    4.17;    1.80;  -13.00; 2019AJ....158..122K ;check
+Cyg OB2               ;Cyg ;308.18293890 ;+41.3848889 ;Op   ;OC    ;   42.1;   1637;   -2.66;   -4.25;        ; Alessi (Gaia DR2)   ;Contains FSR 238, Bica 1, Bica 2, Santa 194
+Theia 391             ;Cyg ;310.02638860 ;+54.4210077 ;Op   ;Str   ; 3957.9;    563;    2.81;   -1.59;  -12.42; 2019AJ....158..122K ;larger than 1 radian
+Theia 98              ;Cyg ;311.17192300 ;+44.6151293 ;Op   ;Str   ; 1090.4;    454;    3.57;   -0.04;   -6.41; 2019AJ....158..122K ;3+ condensations
+Theia 724             ;Cyg ;313.42701920 ;+41.9593251 ;Op   ;Str   ; 1352.7;    492;   -1.31;   -7.04;   -8.68; 2019AJ....158..122K ;check
+Theia 158             ;Cyg ;315.59041580 ;+42.8223256 ;Op   ;Str   ; 1014.6;    895;   -1.29;   -3.43;   -1.54; 2019AJ....158..122K ;4 condensations
+Theia 1               ;Cyg ;315.77767240 ;+50.8902092 ;Op   ;Asc   ;  453.8;    586;    1.40;   -3.68;  -21.63; 2019AJ....158..122K ;UPK 144 plus 1 cond
+Theia 450             ;Cyg ;316.80346490 ;+48.1621342 ;Op   ;Str   ; 1355.9;    432;    1.32;   -3.30;  -14.49; 2019AJ....158..122K ;3 condensations
+Cyg OB7               ;Cyg ;318.34296260 ;+47.6303729 ;Op   ;OC    ; 1107.4;    922;   -1.44;   -3.38;        ; Alessi (Gaia DR2)   ;poss matches: UPK 135, Theia 990, Theia 420, UPK 118
+Theia 507             ;Cyg ;318.75820460 ;+49.7789435 ;Op   ;Str   ; 3662.2;     98;   82.66;   36.42;  -15.57; 2019AJ....158..122K ;larger than 1 radian
+Theia 822             ;Cyg ;321.81065450 ;+48.3045830 ;Op   ;Str   ; 1684.9;    403;   -5.62;  -13.57;  -11.29; 2019AJ....158..122K ;check
+Theia 421             ;Cyg ;321.97305410 ;+52.8121103 ;Op   ;Str   ; 1054.5;    842;   -4.63;   -5.32;  -11.40; 2019AJ....158..122K ;2 condensations
+Theia 263             ;Cyg ;322.05882970 ;+39.5267948 ;Op   ;Str   ;  900.0;    643;    0.97;   -1.70;    0.03; 2019AJ....158..122K ;includes NGC 7063, UPK 136
+Theia 1275            ;Cyg ;324.68931230 ;+47.0251375 ;Op   ;Str   ; 3329.5;    153;   37.66;   18.11;  -20.36; 2019AJ....158..122K ;2 condensations
+Theia 1077            ;Dra ;140.66597460 ;+73.2568507 ;Op   ;MG    ; 3956.9;    776;    1.29;    0.91;   -8.04; 2019AJ....158..122K ;larger than 1 radian
+Theia 426             ;Dra ;187.24368170 ;+75.7500997 ;Op   ;MG    ; 4093.3;    134;   50.48;   -0.81;   -8.60; 2019AJ....158..122K ;larger than 1 radian
+MAF 1                 ;Eri ; 68.49333300 ; -8.8494440 ;Op   ;Str   ; 1560.0;    164;        ;        ;        ; arXiv:1901.06387v1  ;check - missing PMs
+IC 2118 Assoc         ;Eri ; 76.50000000 ; -7.8000000 ;IR   ;YAs   ;  250.0;    210;        ;        ;        ; Alessi              ;?Rigel
+Theia 203             ;Gem ; 91.95659120 ;+24.7124745 ;Op   ;Asc   ; 1260.1;    843;    2.34;   -3.08;   -0.05; 2019AJ....158..122K ;2 condensations
+Majaess 231           ;Gem ;106.02500000 ;+20.5702780 ;Op   ;OB?   ;  300.0;    540;        ;        ;        ; Alessi              ;Zeta Gem Cl, ?Theia 1118
+TW Hya Assoc          ;Hya ;165.46625000 ;-34.7047220 ;Op   ;YAs   ; 2500.0;     65;        ;        ;        ; Alessi              ;check - missing PMs
+Theia 108             ;Lac ;341.00298890 ;+45.1794809 ;Op   ;Str   ;  562.1;    620;   -0.74;   -3.69;   -9.78; 2019AJ....158..122K ;3 well separated condensations
+Theia 81              ;Lac ;341.59291850 ;+40.4545413 ;Op   ;Str   ; 1060.1;    472;   -1.38;   -5.32;  -11.00; 2019AJ....158..122K ;check
+Theia 388             ;Lac ;342.09501060 ;+49.7850371 ;Op   ;Str   ; 1021.9;    554;    2.12;   -1.03;   -8.64; 2019AJ....158..122K ;2 condensations
+Theia 83              ;Lep ; 91.42617600 ;-14.7425004 ;Op   ;Asc   ;  749.1;    613;   -2.46;    1.44;   32.39; 2019AJ....158..122K ;2 condensations
+Upper Cen Lup         ;Lup ;229.23000000 ;-38.5300000 ;Op   ;OB    ; 1116.0;    144;  -20.30;  -23.50;    2.20; 2012AstL...38..331A ;includes OPD 8, OPD 18, OPD 24, OPD 54, OPD 99, UPK 622, UPK 632
+UCL-4                 ;Lup ;229.75916700 ;-37.7430560 ;Op   ;OB    ;  160.0;    149;        ;        ;        ; Alessi              ;in OPD 18
+UCL-3                 ;Lup ;231.69916700 ;-36.3272220 ;Op   ;OB    ;  140.0;    149;        ;        ;        ; Alessi              ;in OPD 18
+Theia 252             ;Lup ;231.85853060 ;-51.2357087 ;Op   ;Str   ; 1155.3;    523;   -6.71;   -7.81;  -17.62; 2019AJ....158..122K ;check
+ASCC 100              ;Lyr ;285.48833300 ;+33.4833330 ;Op   ;OC    ;  140.0;    362;        ;        ;        ; Alessi              ;?UPK 83
+Theia 41              ;Mon ; 99.80901310 ; +9.7746426 ;Op   ;Str   ;  312.7;    715;   -1.98;   -3.94;   18.42; 2019AJ....158..122K ;contains UPK 400, Collinder 95
+UPK 400               ;Mon ;100.21692120 ; +9.7766300 ;Op   ;OC    ;   52.8;    724;   -1.87;   -3.74;        ; 2019arXiv190706872S ;Escorial 9, FoF 2324, includes NGC 2264, NGC 2264 IRS 1, NGC 2264 IRS 2
+Escorial 9            ;Mon ;100.24100590 ; +9.9702707 ;Op   ;OC    ;   61.1;    750;   -2.05;   -3.72;        ; Alessi (Gaia DR2)   ;poss matches: NGC 2264, NGC 2264 IRS 1, NGC 2264 IRS 2, Theia 189
+Theia 294             ;Mon ;103.69611100 ; -1.7916803 ;Op   ;Str   ; 1315.0;    870;   -1.20;   -1.84;   29.13; 2019AJ....158..122K ;contains NGC 2301, NGC 2323, ASCC 29
+Theia 379             ;Mon ;104.48631120 ; +0.4480943 ;Op   ;Str   ; 3859.2;    341;   -8.62;   -5.53;   18.53; 2019AJ....158..122K ;many condensations
+CMa OB1A              ;Mon ;105.99557200 ;-10.9392764 ;Op   ;OC    ;   72.1;   1309;   -3.54;    1.22;        ; Alessi (Gaia DR2)   ;Contains FSR 1184 and others
+Escorial 16           ;Mon ;108.12673670 ; -9.7843559 ;Op   ;OC    ;  111.8;    672;   -4.74;    2.16;        ; Alessi (Gaia DR2)   ;poss matches: Theia 265, Alessi 21
+Theia 75              ;Mus ;198.57398200 ;-67.3246024 ;Op   ;Str   ; 4057.4;    349;  -13.39;   -5.98;    5.10; 2019AJ....158..122K ;larger than 1 radian
+Nor OB1               ;Nor ;239.16635560 ;-54.6044978 ;Op   ;OC    ;  139.3;   1344;   -2.53;   -3.30;        ; Alessi (Gaia DR2)   ;poss matches: Theia 357, UPK 621
+Theia 405             ;Nor ;241.04177560 ;-57.7174948 ;Op   ;Str   ; 1020.5;    687;   -2.74;   -5.16;   -9.75; 2019AJ....158..122K ;5+ condensations
+RCW 103A              ;Nor ;244.38966700 ;-51.8297237 ;Op   ;OC    ;   56.9;   3378;   -2.88;   -3.81;        ; Alessi (Gaia DR2)   ;poss matches: UBC 540, UBC 666, FoF 2155
+Theia 435             ;Oph ;274.73647900 ; +9.1208824 ;Op   ;Str   ; 4080.3;    230;   -7.40;  -11.62;  -20.15; 2019AJ....158..122K ;larger than 1 radian
+FoF 2376              ;Ori ; 81.21590520 ; -0.0270676 ;Op   ;OC:   ;  222.2;    350;    1.35;   -0.55;        ; arXiv:1910.12600v1  ;check - many poss IDs
+Orion X               ;Ori ; 81.72432630 ; -0.3388163 ;Op   ;OC    ;  966.4;    379;    0.36;   -0.78;        ; Alessi (Gaia DR2)   ;check - many poss IDs
+HD 35762 Cl           ;Ori ; 81.78333300 ; +3.8555560 ;Op   ;OC    ;   60.0;    350;        ;        ;        ; Alessi              ;check  
+Escorial 3            ;Ori ; 81.81518550 ; +1.5729560 ;Op   ;OC    ;  201.9;    387;    0.77;   -0.66;        ; Alessi (Gaia DR2)   ;check - many poss IDs
+FoF 2371              ;Ori ; 81.98835520 ; +1.9400741 ;Op   ;OC    ;  172.9;    374;   -0.29;    0.52;        ; arXiv:1910.12600v1  ;check - many poss IDs
+Tau-Ori R1            ;Ori ; 82.32916700 ; +2.4441670 ;Op   ;YAs?  ; 1140.0;    360;        ;        ;        ; Alessi              ;check - missing PMs
+Collinder 70          ;Ori ; 82.91000000 ; -2.0100000 ;Op   ;OB    ;  444.0;    368;    0.90;   -0.60;   21.10; 2012AstL...38..331A ;check - many poss IDs
+Ori Mol Cld           ;Ori ; 82.95000000 ; -1.5200000 ;Op   ;YAs   ;  600.0;    367;    0.70;   -0.80;   20.80; 2012AstL...38..331A ;check - many poss IDs
+Ori OB1B              ;Ori ; 83.05259140 ; +0.0690844 ;Op   ;OC    ;  518.6;    360;    0.94;   -0.69;        ; Alessi (Gaia DR2)   ;check - many poss IDs
+Theia 13              ;Ori ; 83.16277200 ; -1.7698400 ;Op   ;Str   ; 1831.0;    378;    0.72;   -0.55;   23.27; 2019AJ....158..122K ;many condensations
+UPK 411               ;Ori ; 83.68080660 ; -5.5746506 ;Op   ;Asc   ;  589.2;    374;    1.15;   -0.46;        ; 2019arXiv190706872S ;many possible matches
+Escorial 5            ;Ori ; 83.80038040 ; -5.8918688 ;Op   ;OC    ;  238.0;    387;    1.11;   -0.17;        ; Alessi (Gaia DR2)   ;poss matches: Ori Y, LDN 1641N, Ori DS, Zeta Ori
+Ori OB1C              ;Ori ; 83.91018720 ; -5.5459933 ;Op   ;OC    ;  276.2;    416;    1.13;    0.17;        ; Alessi (Gaia DR2)   ;poss matches: LDN 1641N, Ori DS, Ori Y
+Escorial 6            ;Ori ; 84.02779060 ; -0.9511265 ;Op   ;OC    ;  205.1;    377;    0.27;   -0.69;        ; Alessi (Gaia DR2)   ;Alnilam, Epsilon Ori, check - many poss IDs
+Theia 55              ;Ori ; 90.09565120 ; +6.8499011 ;Op   ;Str   ; 3335.4;    296;   -3.51;   -4.47;   22.09; 2019AJ....158..122K ;many condensations
+Per OB1D              ;Per ; 35.54717900 ;+57.1724721 ;Op   ;OC    ;  232.7;   2415;   -0.45;   -1.22;        ; Alessi (Gaia DR2)   ;poss matches: UBC 191, FoF 2136, UBC 192, UBC 421, UBC 419
+FoF 180               ;Per ; 37.54853360 ;+58.0974434 ;Op   ;OC:   ;  114.5;   2770;   -0.35;   -0.84;        ; arXiv:1910.12600v1  ;includes NGC 957, UBC 421, UBC 606, UBC 192, UBC 191
+FoF 2134              ;Per ; 38.26059080 ;+58.1884633 ;Op   ;OC    ;  159.2;   2203;   -0.23;   -0.79;        ; arXiv:1910.12600v1  ;includes UBC 421, UBC 192, UBC 191
+Per OB2               ;Per ; 56.93172460 ;+33.7086274 ;Op   ;OC    ;  190.8;    338;    4.31;   -6.15;        ; Alessi (Gaia DR2)   ;poss matches: Theia 21, UPK 338
+Theia 77              ;Per ; 60.22617690 ;+32.9831086 ;Op   ;Str   ;  967.9;    372;    3.47;   -5.29;   20.79; 2019AJ....158..122K ;includes Per OB2, UBC 31
+Theia 678             ;Per ; 68.54228340 ;+52.2975595 ;Op   ;Str   ; 3904.0;    133;  -13.07;   -0.67;  -10.13; 2019AJ....158..122K ;larger than 1 radian
+MAF 3                 ;Psc ;  3.60583300 ; +2.4344440 ;Op   ;Str   ;  960.0;    122;        ;        ;        ; arXiv:1901.06387v1  ;check - missing PMs
+Pisces MG             ;Psc ;350.60291700 ; -2.2280560 ;Op   ;YAs   ; 1590.0;    100;        ;        ;        ; Alessi              ;check - missing PMs
+FoF 375               ;Pup ;112.14178300 ;-15.3620721 ;Op   ;OC?   ;   45.2;   3650;   -1.28;    1.50;        ; arXiv:1910.12600v1  ;includes Czernik 29, Haffner 10
+Theia 74              ;Pup ;115.73205860 ;-41.6073779 ;Op   ;Str   ; 1679.0;    336;   -9.95;    5.09;   14.99; 2019AJ....158..122K ;6+ condensations
+AWJ 260.25-10.25      ;Pup ;117.27583300 ;-46.4650000 ;Op   ;YAs   ;   85.0;    397;        ;        ;        ; Alessi              ;?Escorial 25
+Pup OB1               ;Pup ;117.94593720 ;-26.4864332 ;Op   ;OC    ;  299.1;   3185;   -2.62;    2.89;        ; Alessi (Gaia DR2)   ;poss matches: FoF 1428, FoF 1429, UBC 461, FoF 946, UBC 640, FoF 941
+Pup OB2               ;Pup ;119.11163370 ;-27.3116861 ;Op   ;OC    ;  245.5;   4016;   -1.95;    1.92;        ; Alessi (Gaia DR2)   ;poss matches: FoF 1428, FoF 1429, UBC 640, FoF 946, FoF 941
+Theia 58              ;Pup ;119.93863980 ;-29.6430224 ;Op   ;Str   ; 1688.8;    497;   -8.71;    5.35;   30.88; 2019AJ....158..122K ;many condensations
+Collinder 173         ;Pup ;120.70416670 ;-46.3833333 ;Op   ;OB    ;  370.0;    421;        ;        ;        ; Alessi              ;check - many poss IDs  
+Vel OB2               ;Pup ;120.74498670 ;-46.9753772 ;Op   ;OC    ;  541.5;    395;   -7.00;    7.90;        ; Alessi (Gaia DR2)   ;poss matches: BBJ 2, UPK 507, UPK 515, Pozzo 1, Vela Ring B
+AWJ 259.00-03.25      ;Pup ;124.68416700 ;-41.7405560 ;Op   ;YAs   ;   75.0;    500;        ;        ;        ; Alessi              ;?Theia 313
+USC-A                 ;Sco ;241.74333300 ;-20.2241670 ;Op   ;Asc   ;  180.0;    142;        ;        ;        ; Alessi              ;?OPD 69
+UBC 323               ;Sco ;253.89481890 ;-40.7506020 ;Op   ;OB:   ;   75.4;   1736;   -0.23;   -1.26;        ; 2020A&A...635A..45C ;Trumpler 24, Sco OB2, includes several clusters/groups
+Theia 325             ;Sco ;256.32660200 ;-36.8516765 ;Op   ;Str   ;  963.5;    577;   -1.57;   -3.42;   -8.13; 2019AJ....158..122K ;4+ condensations
+Theia 195             ;Sco ;258.42065900 ;-37.2787760 ;Op   ;Str   ; 1606.3;    801;    1.00;   -3.89;  -15.59; 2019AJ....158..122K ;check
+Theia 303             ;Sco ;267.63397360 ;-38.3111293 ;Op   ;Str   ; 3617.1;    216;   -4.28;  -20.59;  -11.41; 2019AJ....158..122K ;many condensations
+Sct OB3               ;Sct ;276.23418800 ;-14.2481099 ;Op   ;OC    ;  104.9;   1783;   -0.02;   -2.72;        ; Alessi (Gaia DR2)   ;poss matches: FoF 2115, FoF 2114, FoF 290, FoF 1640
+Theia 595             ;Sct ;279.84699660 ; -6.2616673 ;Op   ;Str   ; 3653.5;    108;    8.30;   -5.37;  -20.55; 2019AJ....158..122K ;larger than 1 radian
+Turner Sct OB         ;Sct ;280.88522390 ; -4.2145577 ;Op   ;OC    ;   86.3;   3030;   -0.65;   -2.57;        ; Alessi (Gaia DR2)   ;poss matches: FoF 1670, FoF 2168, FoF 1654, UBC 353, FoF 456, FoF 2169, Dolidze 32
+Theia 23              ;Ser ;278.22350660 ; -2.9387278 ;Op   ;Str   ; 1208.2;    433;    2.15;   -8.48;   -9.26; 2019AJ....158..122K ;includes Ser far-South, Ser Main, ?Ser Northeast
+Sgr OB1C              ;Sgr ;270.76146860 ;-22.7518200 ;Op   ;OC    ;   93.4;   1274;    0.41;   -1.25;        ; Alessi (Gaia DR2)   ;poss matches: NGC 6531, NGC 6514
+Sgr OB4               ;Sgr ;273.81520690 ;-18.9588415 ;Op   ;OC    ;  115.0;   1908;    0.39;   -1.64;        ; Alessi (Gaia DR2)   ;poss matches: Polakis 1, FoF 2160, FoF 288, FoF 2159
+Theia 407             ;Sgr ;283.17207060 ;-19.8816826 ;Op   ;Str   ;  332.3;    729;   -1.47;   -5.74;   13.15; 2019AJ....158..122K ;includes UPK 13, Collinder 394, NGC 6716
+UCrA                  ;Sgr ;290.00000000 ;-37.0000000 ;Op   ;YAs   ;  480.0;    148;        ;        ;        ; Alessi              ;check - missing PMs
+Theia 7               ;Tau ; 67.03066600 ;+25.9389955 ;Op   ;Asc   ;  635.3;    136;    8.17;  -22.37;   16.12; 2019AJ....158..122K ;includes HMAC 7, HMAC 14, HMAC 16, HMAC 17, Taurus VIIIa
+Taurus VI B           ;Tau ; 68.13250000 ;+17.5194440 ;IR   ;YAs   ;  340.0;    167;        ;        ;        ; Alessi              ;check - missing PMs
+Tau-Aur T Assoc       ;Tau ; 68.13750000 ;+26.0769440 ;IR   ;YAs   ; 1560.0;    135;        ;        ;        ; Alessi              ;BDB 151, Tau R2, ?Taurion
+Taurus XI B           ;Tau ; 76.63666700 ;+24.7652780 ;IR   ;YAs   ;   96.0;    240;        ;        ;        ; Alessi              ;check - missing PMs
+Taurion               ;Tau ; 85.42127320 ;+18.1736968 ;Op   ;OC    ; 1941.7;    195;    2.55;  -14.78;        ; Alessi (Gaia DR2)   ;poss matches: Tau-Aur T Assoc, Theia 116, Theia 370
+Theia 707             ;UMi ;241.81437470 ;+75.1803884 ;Op   ;Str   ; 3462.7;    405;    1.27;   -3.84;  -17.72; 2019AJ....158..122K ;larger than 1 radian
+Theia 22              ;Vel ;121.34369860 ;-46.6368204 ;Op   ;Str   ; 1145.8;    376;   -5.89;    9.00;   19.99; 2019AJ....158..122K ;many condensations
+Escorial 26           ;Vel ;122.15908180 ;-48.3921890 ;Op   ;OC    ;  212.1;    386;   -8.23;    6.54;        ; Alessi (Gaia DR2)   ;poss matches: Pozzo 1, Vela Ring F, Vela Ring B, NGC 2547
+FoF 2394              ;Vel ;122.24635010 ;-47.3905989 ;Op   ;OC    ;  320.3;    360;   -6.33;    9.28;        ; arXiv:1910.12600v1  ;?contains Vel Ring B, Pozzo 1, BBJ 5
+Theia 99              ;Vel ;123.30190880 ;-46.9351400 ;Op   ;Str   ; 1827.0;    459;   -8.72;    8.22;   25.20; 2019AJ....158..122K ;many possible matches
+Escorial 28           ;Vel ;123.39607780 ;-46.3177070 ;Op   ;OC    ;   80.9;    358;   -7.33;    7.11;        ; Alessi (Gaia DR2)   ;poss matches: Pozzo 1, BBJ 5, Vela Ring B
+Vel OB5               ;Vel ;124.14449210 ;-50.9988555 ;Op   ;OC    ; 1003.2;    260;  -11.97;    8.89;        ; Alessi (Gaia DR2)   ;poss matches: UPK 535, UPK 538
+Theia 163             ;Vel ;126.36739950 ;-53.0013869 ;Op   ;Str   ; 2005.6;    299;   -9.19;    0.79;   24.96; 2019AJ....158..122K ;many condensations
+Vel OB1A              ;Vel ;129.92799120 ;-45.9448145 ;Op   ;OC    ;  108.8;   1664;   -5.65;    4.62;        ; Alessi (Gaia DR2)   ;poss matches: UBC 482, FoF 2219, UBC 245
+UPK 516               ;Vel ;132.07499850 ;-41.5786352 ;Op   ;Asc   ;  242.4;    941;   -5.61;    3.81;        ; 2019arXiv190706872S ;includes Collinder 197, Alessi 43
+Theia 28              ;Vel ;132.60006740 ;-42.2537205 ;Op   ;Str   ;  724.4;    898;   -5.85;    4.73;   30.23; 2019AJ....158..122K ;includes FoF 2221, Collinder 197, Alessi 43, 
+FoF 2149              ;Vel ;138.09947970 ;-44.8657623 ;Op   ;OC    ;   47.3;   2016;   -5.12;    3.94;        ; arXiv:1910.12600v1  ;includes UBC 484, UBC 485
+Theia 149             ;Vel ;138.49001530 ;-51.7387849 ;Op   ;Str   ; 2393.0;    653;  -10.43;    7.38;   13.36; 2019AJ....158..122K ;check
+OPD 34                ;Vel ;144.17296750 ;-41.9796206 ;Op   ;MG    ;  425.8;    140;  -33.19;   13.69;        ; 2017AJ....153..257O ;check - many poss IDs
+OPD 53                ;Vel ;144.31563300 ;-51.7034117 ;Op   ;MG    ;  317.7;    124;  -19.50;    8.76;        ; 2017AJ....153..257O ;check - many poss IDs
+Theia 508             ;Vel ;147.28317970 ;-43.2409026 ;Op   ;Str   ; 2256.2;    129;  -37.78;   13.66;   16.80; 2019AJ....158..122K ;check
+Theia 143             ;Vel ;148.42150100 ;-52.8405399 ;Op   ;Str   ; 2100.1;    433;  -13.98;    3.79;   15.67; 2019AJ....158..122K ;check
+Theia 453             ;Vel ;150.71567940 ;-55.6999549 ;Op   ;Str   ; 2720.4;    483;  -12.69;    6.23;   16.02; 2019AJ....158..122K ;check
+Theia 38              ;Vul ;290.52848280 ;+22.3981974 ;Op   ;Asc   ;  503.9;    496;    1.06;   -5.96;   -5.70; 2019AJ....158..122K ;includes UPK 67, UPK 70, UPK 71
+Theia 259             ;Vul ;295.58995260 ;+24.0324583 ;Op   ;Str   ;  605.5;    597;   -0.01;   -3.42;  -16.43; 2019AJ....158..122K ;2 condensations
+Theia 316             ;Vul ;296.28055700 ;+21.1111105 ;Op   ;Str   ; 2729.3;    481;   -1.60;   -2.29;  -26.18; 2019AJ....158..122K ;many condensations
+Theia 419             ;Vul ;298.95297630 ;+28.0288160 ;Op   ;MG    ;  264.6;    836;   -0.89;   -5.10;   -7.96; 2019AJ....158..122K ;includes UPK 90, UPK 87
+Theia 254             ;Vul ;310.46147740 ;+24.8920790 ;Op   ;Str   ; 1732.2;    534;    3.88;   -4.79;   -2.41; 2019AJ....158..122K ;many condensations
